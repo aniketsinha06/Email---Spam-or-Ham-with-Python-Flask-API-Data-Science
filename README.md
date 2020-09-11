@@ -15,3 +15,4 @@ Prediction and validation of an email whether it is spam or not based on its for
 <a href =  "aniketsinha06.github.io">Portfolio</a></br>
 <a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
 <a href =  "github.com/aniketsinha06">Github</a></br>
+<a href =  "https://www.instagram.com/machinelearning06/">Instagram</a></br>
